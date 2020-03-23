@@ -65,7 +65,7 @@ strCountOfLessNums = str(countOfLessNums)
 print(strInput + " is larger than " + strCountOfLessNums + " numbers of the list")
 
 while True:
-    word = input("Please enter a word:")
+    word = input("Enter a word:")
     wordLength = len(word)
     b = 1
     for b in range(wordLength):
