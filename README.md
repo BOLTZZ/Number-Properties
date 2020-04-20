@@ -1,4 +1,4 @@
-# PyCharm
+# Number Properties:
 Number properties calculator (the one in [java](https://github.com/BOLTZZ/Java/blob/master/JavaAlgorithms&Code/Number%20Properties%20Calculator.MD) is better).
 
 Requirments:
