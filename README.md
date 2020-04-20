@@ -1,2 +1,2 @@
-# PyCharm
+# Number Properties:
 CodingWithKids pycharm practice.
